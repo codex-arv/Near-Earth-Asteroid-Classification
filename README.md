@@ -12,7 +12,7 @@ I. Built with various regression and classification models including:
 - K-Nearest Neighbors (KNN)
 
 II. Dataset:
-- Source: [Kaggle - NASA JPL Asteroid Dataset](https://www.kaggle.com/datasets/sameepvani/nasa-nearest-earth-objects)
+- Source: [Kaggle - NASA JPL Asteroid Dataset](https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset)
 - 9,58,524 rows of real asteroid observations and data
 
 III. Objective:
